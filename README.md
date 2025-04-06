@@ -1,4 +1,4 @@
-# Trading Bot
+# SNIPER Bot
 
 Ushbu loyiha kripto-valyuta bozorida savdo operatsiyalarini avtomatlashtirish uchun yaratilgan trading bot hisoblanadi. Bot yangi tokenlarni kuzatish, xavfsizlik tahlili, likvidlik tahlili va savdo strategiyalarini amalga oshirish imkonini beradi.
 
